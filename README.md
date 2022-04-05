@@ -5,11 +5,7 @@
 <h3 align="center">I'm Juanma, a Junior full-stack developer still learning, from Seville, Spain
 </h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=juanmax4&label=Profile%20views&color=10b197&style=flat" alt="juanmax4"/>  
-</p>
-
-![juanmax4](https://komarev.com/ghpvc/?username=juanmax4&color=dc143c)
+![juanmax4](https://komarev.com/ghpvc/?username=juanmax4&color=ABEBC6)
 
 ---
 
