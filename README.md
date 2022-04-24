@@ -76,7 +76,7 @@ FrontEnd Development
 
 ## Learning more... 📖
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juanmax4&repo=openwebinars)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juanmax4&repo=openwebinars)](https://github.com/juanmax4/github-readme-stats)
 
 ---
 
