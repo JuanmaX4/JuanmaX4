@@ -2,7 +2,7 @@
 
 <img src="./img/carbon.png">
 
-<h3 align="center">I'm Juanma, a Junior full-stack developer still learning, from Seville, Spain
+<h3 align="center">I'm Juanma, a Junior full-stack developer still learning, from Seville now currently I live in Madrid, Spain
 </h3>
 
 ![juanmax4](https://komarev.com/ghpvc/?username=juanmax4&color=ABEBC6)
