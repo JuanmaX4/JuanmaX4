@@ -109,7 +109,7 @@ FrontEnd Development
 
 <h3 align="left">Connect with me: 🔗</h3>
 
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://es.linkedin.com/in/juan-manuel-j%C3%ADmenez-%C3%A1lvarez-857774211?trk=public_profile_samename-profile)
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://es.linkedin.com/in/jmjimeneza)
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanma97sevillano@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jm97jimeneza@gmail.com)
 
